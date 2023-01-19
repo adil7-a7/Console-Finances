@@ -137,7 +137,7 @@ var finances =
     
     
     console.log('Financial analysis');
-    console.log('-----------------------------------------------------');
+    console.log('-----------------------------------------------');
     
     //total months  
     console.log(`Total months: ${finances.length}`);

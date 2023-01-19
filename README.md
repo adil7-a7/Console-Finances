@@ -22,7 +22,7 @@ This Program processes mathematical operations of years in miliseconds in order 
 *HTML Page
 <img width="566" alt="htmlpage" src="https://user-images.githubusercontent.com/117782725/213342081-907a808a-957a-48b6-93ea-e2f81d965cd6.png">
 
-*Calculations Performed with JS in the Console
+*Calculations Performed with JS in the Consol
 <img width="279" alt="financial" src="https://user-images.githubusercontent.com/117782725/213341981-95e77dcf-d521-4c63-a4d3-fb7cdb7c39cf.png">
 
 
